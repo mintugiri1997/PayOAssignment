@@ -1,0 +1,2 @@
+rootProject.name='PayOAssignment'
+include ':app'
